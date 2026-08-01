@@ -1,3 +1,3 @@
 # Shell
 Schell Scripts
-Shell Scrips for reference. 
+Shell Scrips for reference and practice. 
