@@ -4,7 +4,7 @@
 # Version: v1
 # Thanks for this courses 
 #
-#
+# this is an awesome cource
 #
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
